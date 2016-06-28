@@ -245,3 +245,38 @@
   text-align:center;
   line-height:normal;
 }
+.mrjcontainer {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+  text-align:left;
+}
+.mrjbuttonbig {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.mrjbuttonplaintext {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#03A9F4;
+  text-align:center;
+}
+.mrjbuttonalerttext {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FF3300;
+  text-align:center;
+}
+.mrjtabbar {
+  font-size:13px;
+  color:#FFCC33;
+}
